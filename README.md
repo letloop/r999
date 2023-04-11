@@ -1,10 +1,5 @@
-# `(import (letloop template))`
+# `(import (letloop r999))`
 
-Abstract description...
+## `(define-record-type ...)`
 
-## `(procedure one two)` `type?` `type?` → `type?`
-
-Description...
-
-
-
+Use SRFI-9 syntax.
